@@ -5,5 +5,12 @@
   --foreground: #171717;
 }
 body {
-  background-color: #05051a;
+  background: radial-gradient(
+    circle at 50% 50%,
+    #05051a 0%,
+    #080c33 50%,
+    #141c63 80%,
+    #1a2458 95%,
+    #05051a 100%
+  );
 }
