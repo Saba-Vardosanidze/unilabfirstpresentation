@@ -5,7 +5,7 @@ import Image from "next/image";
 import Cards from "../cards/page";
 const HeroSection = () => {
   return (
-    <div className="relative m-auto w-full min-h-[600px] overflow-hidden">
+    <div className="relative m-auto max-w-[1440px] min-h-[600px] overflow-hidden">
       <Image
         src="/png/galacticRight.png"
         alt="galactic"

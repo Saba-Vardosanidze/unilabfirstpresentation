@@ -15,3 +15,21 @@ body {
   );
   background-repeat: no-repeat;
 }
+
+:root {
+  --colorWhite: white;
+  --colorBlack: black;
+  --grayColorForInput: #050523;
+  --paragraph-color: #8d8d8d;
+  --colorWhiteHover: #f5f5f5;
+  --colorBlackHover: #272727f3;
+  --colorBlackOpacity: #b3b3b3;
+  --colorBlackborder: #00000010;
+  --colorBlackborder: #00000020;
+  --oldPrice: #00000040;
+  --heroBgColor: #f2f0f1;
+  --productContainerColor: #f0eeed;
+  --productContainerColorHover: #cccccc;
+  --inputBorder: #dddddd;
+  --footerHover: #8b81f8;
+}
